@@ -1,12 +1,12 @@
-# Nombre final del curso
+# Desafío de programación: JavaScript avanzado
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: JavaScript avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Desafío de programación: JavaScript avanzado][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Aprende soluciones más avanzadas en la programación de JavaScript con este contenido cargado de ejercicios de alto nivel que te permitirán alcanzar nuevas cotas de comprensión y dominar los conceptos más complejos de JavaScript. El curso brinda ejercicios para practicar la creación de clases y herencia, manipulación de fechas, creación de filtros de datos dinámicos y otros muchos conceptos. No te quedes con lo básico y continúa mejorando tus habilidades de programación con JavaScript.
 
 ## Instrucciones
 
@@ -31,4 +31,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: [https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg](https://media-exp1.licdn.com/dms/image/C4E0DAQHUhMdZ271IlA/learning-public-crop_675_1200/0/1653985859528?e=1654603200&v=beta&t=kbSL5CzmmIvAQ7IaVEv-zu5tlFoCLjSS9oDXvXaRC4s)
