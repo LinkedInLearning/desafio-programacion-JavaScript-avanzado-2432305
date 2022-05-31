@@ -31,4 +31,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: [https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg](https://media-exp1.licdn.com/dms/image/C4E0DAQHUhMdZ271IlA/learning-public-crop_675_1200/0/1653985859528?e=1654603200&v=beta&t=kbSL5CzmmIvAQ7IaVEv-zu5tlFoCLjSS9oDXvXaRC4s)
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHUhMdZ271IlA/learning-public-crop_675_1200/0/1653985859528?e=1654603200&v=beta&t=kbSL5CzmmIvAQ7IaVEv-zu5tlFoCLjSS9oDXvXaRC4s
