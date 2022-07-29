@@ -30,5 +30,5 @@ Las ramas están estructuradas para corresponder a los vídeos del curso y la co
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHUhMdZ271IlA/learning-public-crop_675_1200/0/1653985859528?e=1654603200&v=beta&t=kbSL5CzmmIvAQ7IaVEv-zu5tlFoCLjSS9oDXvXaRC4s
+[lil-course-url]: https://www.linkedin.com/learning/desafio-de-programacion-javascript-avanzado
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHUhMdZ271IlA/learning-public-crop_675_1200/0/1653985859528?e=1659682800&v=beta&t=ZgKfwkmYmgZQD9c7SlTtfFhumZbPTAYUUlAIN3SfWNQ
