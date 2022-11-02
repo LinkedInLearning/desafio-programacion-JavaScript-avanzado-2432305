@@ -10,6 +10,9 @@ Aprende soluciones más avanzadas en la programación de JavaScript con este con
 
 ## Instrucciones
 
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta.
+Cada episodio de la serie Level Up ofrece al menos 12 ejercicios prácticos en diferentes niveles de dificultad para que puedas desafiarte y reforzar lo que has aprendido. Aprende a configurar y utilizar un espacio de código con el vídeo “Cómo usar GitHub Codespaces con este curso”.
+
 Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
 
 ## Ramas
