@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: JavaScript avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/193788824-4801e7bb-b568-41e3-9276-67d15873c2e2.png)
+![2432305_es_ES_TN](https://user-images.githubusercontent.com/61017085/200618399-836aa48d-7c53-4ae3-8f53-371e2530fd4e.jpg)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
